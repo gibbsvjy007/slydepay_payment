@@ -22,6 +22,13 @@ A flutter plugin to integrate the Slydepay plugin for iOS and Android. Currently
 
 * Please note this is a plugin only. This plugin has used the Android SDK
 
+## Slydepay Account (Skip this if you have an active Merchant Account)
+
+Create a Merchant Account on Slydepay
+
+Follow the link to get started on that:
+([Slydepay Merchant Account](https://app.slydepay.com.gh/auth/signup#business_reg))
+
 ## Usage
 To use this plugin :
 
