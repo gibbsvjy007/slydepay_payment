@@ -16,7 +16,7 @@ A flutter plugin to integrate the Slydepay plugin for iOS and Android. Currently
 
 ### Screenshots
 
-<img src="screenshots/screen1.png" height="300em" /> <img src="screenshots/screen2.png" height="300em" />
+<img src="https://github.com/gibbsvjy007/slydepay_payment/blob/master/screenshots/screen1.png" height="300em" /> <img src="https://github.com/gibbsvjy007/slydepay_payment/blob/master/screenshots/screen2.png" height="300em" />
 
 ### Show some :heart: and star the repo to support the project
 
