@@ -1,6 +1,6 @@
 name: slydepay_payment
 description: A flutter plugin to integrate the Slydepay plugin for iOS and Android. Currently only implemented for android. IOS plugin will be implemented as well. Pull requests are always welcome.
-version: 0.0.1
+version: 0.0.2
 author: Vijay Rathod <vijay@awoshe.com>
 homepage: https://github.com/gibbsvjy007/slydepay_payment.git
 
