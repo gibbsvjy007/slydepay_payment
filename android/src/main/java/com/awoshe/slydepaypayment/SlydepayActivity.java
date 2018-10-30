@@ -61,18 +61,18 @@ public class SlydepayActivity extends Activity {
                 case RESULT_OK:
                     //Payment was successful
                     Toast.makeText(this, "Was successful", Toast.LENGTH_SHORT).show();
-                    intent.putExtra("TYPE", 1);
+                    intent.putExtra("TYPE", "1");
                     setResult(Activity.RESULT_OK, intent);
                     break;
                 case RESULT_CANCELED:
                     //Payment failed
-                    intent.putExtra("TYPE", 2);
+                    intent.putExtra("TYPE", "2");
                     Toast.makeText(this, "Payment Failed", Toast.LENGTH_SHORT).show();
                     setResult(Activity.RESULT_OK, intent);
                     break;
                 case RESULT_FIRST_USER:
                     //Payment was cancelled by user
-                    intent.putExtra("TYPE", 3);
+                    intent.putExtra("TYPE", "3");
                     Toast.makeText(this, "User Canceled", Toast.LENGTH_SHORT).show();
                     setResult(Activity.RESULT_OK, intent);
                     break;
